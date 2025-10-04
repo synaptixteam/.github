@@ -38,7 +38,7 @@ Synaptix is a software engineering company based in Morocco, specializing in bui
 
 ## 🌟 Featured Projects
 
-### [Mektaba](https://github.com/synaptixteam/mektaba-ui)
+### Mektaba
 A comprehensive e-commerce platform for books and school supplies, featuring:
 - Customer marketplace with multilingual support
 - Seller dashboard for inventory and order management
