@@ -49,7 +49,7 @@ A comprehensive e-commerce platform for books and school supplies, featuring:
 
 - 🌐 Website: [synaptixteam.com](https://synaptixteam.com)
 - 📧 Email: contact@synaptixteam.com
-- 💼 LinkedIn: [linkedin.com/company/synaptix-team](https://linkedin.com/company/synaptix-team)
+- 💼 LinkedIn: [linkedin.com/company/synaptix-team](https://linkedin.com/company/synaptixteam)
 - 📍 Location: Morocco
 
 ---
