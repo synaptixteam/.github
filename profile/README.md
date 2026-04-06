@@ -41,7 +41,7 @@ Synaptix is a software engineering company based in Morocco, specializing in bui
 
 ## 🌟 Featured Projects
 
-### Job Hunter
+### Seekr
 An **AI-powered job application automation platform** that transforms the job search process from manual and repetitive to intelligent and data-driven.
 
 **Key Features:**
